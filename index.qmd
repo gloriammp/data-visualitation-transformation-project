@@ -1,7 +1,7 @@
 ---
 title: "Project"
-author: "Insert Name Here"
-subtitle: "Investigation into Chicago taxis"
+author: "Gloria"
+subtitle: "Aprendiendo git"
 echo: false
 bibliography: references.bib
 ---
